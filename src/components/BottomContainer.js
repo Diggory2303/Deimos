@@ -25,9 +25,9 @@ export const BottomContainer = () => {
     return (
         <div>
             <Container className="bg-bottom">
-                <Row className="logo" xs={16} sm={16} md={7} lg={7} xl={7}>
-                <Image src={DEIMOSCIRCULAR} rounded/>
-                </Row>
+                
+                <Image src={DEIMOSCIRCULAR} rounded className="logo"/>
+              
                 <Row className="bottom">
                     <Col xs={16} sm={16} md={7} lg={7} xl={7}>
                         <Maps/>
