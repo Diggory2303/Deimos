@@ -10,7 +10,7 @@ import DEIMOSCIRCULAR from '../assets/DEIMOSTITLE.png';
 
 const clickMail = (e) => {
     e.preventDefault();
-    const newWindow = window.open('https://google.com', '_blank', 'noopener,noreferrer')
+    const newWindow = window.open('mailto:contact@deimocapital.com', '_blank', 'noopener,noreferrer')
     if (newWindow) newWindow.opener = null
 } 
 

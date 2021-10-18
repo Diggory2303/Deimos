@@ -56,34 +56,34 @@ export const MiddleContainer = () => {
                 <Row className="first-row">
                     
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card  onClick={clickBloktopia} className="card" style={{ width: '23rem' }}>
+                        <Card  onClick={clickBloktopia} className="card" >
                             <CardImg src={BLOKTOPIA} alt="Bloktopia"/>
                         </Card>
                     </Col>
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card onClick={clickQuickSwap} className="card" border="Dark" style={{ width: '23rem', height: '13rem'}}>
+                        <Card onClick={clickQuickSwap} className="card" border="Dark"   >
                             <CardImg src={QUICKSWAP} alt="Quickswap"/>
                         </Card>
                     </Col>
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card onClick={clickGameStarter}  className="card" style={{ width: '23rem' }}>
+                        <Card onClick={clickGameStarter}  className="card" >
                             <CardImg src={GAMESTARTER} alt="Gamestarter"/>
                         </Card>
                     </Col>
                 </Row>
                 <Row className="second-row">
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card onClick={clickButterfly} className="card" style={{ width: '23rem' }}>
+                        <Card onClick={clickButterfly} className="card" >
                             <CardImg src={BUTTERFLY} alt="Butterfly"/>
                         </Card>
                     </Col>
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card onClick={clickDeus} className="card" style={{ width: '23rem' }}>
+                        <Card onClick={clickDeus} className="card" >
                             <CardImg src={DEUS} alt="Deus"/>
                         </Card>
                     </Col>
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card onClick={clickEthernity} className="card" style={{ width: '23rem' }}>
+                        <Card onClick={clickEthernity} className="card">
                             <CardImg src={ERN} alt="Ethernity Chain"/>
                         </Card>
                     </Col>
