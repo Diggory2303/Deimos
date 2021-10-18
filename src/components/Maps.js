@@ -3,7 +3,7 @@ import GoogleMapReact from 'google-map-react';
 
 const AnyReactComponent = ({ text }) => <div>{text}</div>;
 
-
+console.log(process.env.REACT_APP_GOOGLE_KEY);
 
 export const Maps = () => {
     const defaultProps = {
