@@ -61,7 +61,7 @@ export const MiddleContainer = () => {
                         </Card>
                     </Col>
                     <Col xs={16} sm={16} md={4} lg={4} xl={4}>
-                        <Card onClick={clickQuickSwap} className="card" border="Dark"   >
+                        <Card onClick={clickQuickSwap} className="card" border="Dark" >
                             <CardImg src={QUICKSWAP} alt="Quickswap"/>
                         </Card>
                     </Col>
