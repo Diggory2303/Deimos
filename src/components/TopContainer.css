@@ -1,0 +1,51 @@
+.logo-top{
+    height: 160px;
+    width: 530px;
+    padding: 2%;
+}
+
+
+.logo-circular{
+    height: 400px;
+    width: 450px;
+    padding: 2%;
+}
+
+
+.message{
+    position: relative;
+    right: 24%; 
+    margin-left: 25%;
+    text-align: left;
+    font-size: 2rem;
+}
+.founders{
+    font-size: 1.5rem;
+    position: relative;
+    right: 18%;
+}
+.ecosystems{
+    text-align: center;
+    padding: 5% 5% 0 5%;
+    font-size: 1.3rem;
+    position: relative;
+    right: 1%
+}
+
+.eco-logos{
+    position: relative;
+    left: 31%;
+    margin-right: 40%;
+    text-align: center;
+}
+
+.potential{
+    font-weight: 800;
+    font-size: 4.5rem;
+}
+
+.blockchain{
+color:cadetblue;
+font-size: 4.5rem;
+}
+

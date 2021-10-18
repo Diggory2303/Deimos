@@ -1,0 +1,14 @@
+.logo{
+    height: 110px;
+    width: 400px;
+    padding: 1%;
+    position: relative;
+}
+
+.bottom{
+    padding-top: 4%;
+}
+
+.mail{
+    color:cadetblue;
+}

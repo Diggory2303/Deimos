@@ -1,0 +1,24 @@
+.partners{
+    padding-top:3%;
+}
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.first-row{
+    padding-top: 30px ;
+}
+
+.second-row{
+    padding-top: 30px;
+}
+
+.message{
+    text-align: center;
+    font-size:small;
+    padding: 5% 0;
+    position: relative;
+    right: 15%;
+    font-weight: lighter;
+}
